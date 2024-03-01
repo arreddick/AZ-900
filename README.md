@@ -66,20 +66,3 @@ npm run dev
 ```
 
 Open your browser and navigate to [http://localhost:3000](http://localhost:3000).
-
-## 👥 Contributing
-
-I welcome feedback and contributions from other developers, which can help improve the quality of the code and the
-application overall.
-
-In order to create an issue or a pull request with your changes, please read
-[our contribution guidelines](CONTRIBUTING.md), and thank you for being involved!
-
-There is also a [Discussion tab](https://github.com/eduardconstantin/azure-cloud-exams/discussions)
-
-For a full list of all authors and contributors, see
-[the contributors page](https://github.com/eduardconstantin/azure-cloud-exams/contributors).
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
