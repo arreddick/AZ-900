@@ -23,12 +23,6 @@ UPDATE2: The project has a new name to better fit it's purpose, now it has all a
 <div align="center">
 <br />
 
-[![Contributors](https://img.shields.io/github/contributors/eduardconstantin/azure-cloud-exams?style=flat-square)](https://github.com/eduardconstantin/azure-cloud-exams/graphs/contributors)
-[![Issue](https://img.shields.io/github/issues/eduardconstantin/azure-cloud-exams?style=flat-square)](https://github.com/eduardconstantin/azure-cloud-exams/issues)
-[![PRs](https://img.shields.io/github/issues-pr/eduardconstantin/azure-cloud-exams?style=flat-square)](https://github.com/eduardconstantin/azure-cloud-exams/pulls)
-<br>
-[![Project license](https://img.shields.io/github/license/eduardconstantin/azure-cloud-exams?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/eduardconstantin/azure-cloud-exams?style=flat-square)](https://github.com/eduardconstantin/azure-cloud-exams/stargazers)
 
 </div>
 
